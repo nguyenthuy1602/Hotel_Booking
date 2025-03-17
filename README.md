@@ -1,2 +1,2 @@
 # Hotel_Booking
-Lớp CNTT16-02 Đại Nam - <https://github.com/FIT-DNU>
+Lớp CNTT16-02 Đại Nam - [KHOA CNTT ĐẠI NAM](https://github.com/FIT-DNU)
